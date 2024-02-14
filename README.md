@@ -1,5 +1,3 @@
-Sure, here's a draft of a README for this project:
-
 # Folder Processor
 
 ## Description
@@ -29,14 +27,6 @@ Folder Processor is a Python application that helps you organize your files. It 
 
 ## Disclaimer
 Please use this application responsibly. Always make sure you have a backup of your important files before running the application.
-
-## Requirements
-- Python 3.6 or higher
-- tkinter
-- shutil
-- ctypes
-- threading
-- json
 
 ## Installation
 1. Clone the repository.
