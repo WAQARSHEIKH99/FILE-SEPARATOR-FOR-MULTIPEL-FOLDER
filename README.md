@@ -38,5 +38,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-Please note that this is a draft and you may need to modify it to suit your project's specific needs. Let me know if you need more help! 😊
